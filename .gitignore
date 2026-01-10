@@ -1,11 +1,3 @@
-# Data files
-data/raw/
-data/processed/
-data/external/
-*.csv
-*.xlsx
-*.xls
-
 # Trained models - can be large
 models/*.pth
 models/*.pkl
